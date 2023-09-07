@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Kalkulator {
 	public static void main(String[] args) {
 		float a, b;
 		
